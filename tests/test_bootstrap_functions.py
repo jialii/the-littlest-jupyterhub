@@ -7,7 +7,7 @@ import pytest
 # Since bootstrap.py isn't part of the package, it's not automatically importable
 GIT_REPO_PATH = os.path.abspath(os.path.dirname(os.path.dirname(__file__)))
 sys.path.insert(0, GIT_REPO_PATH)
-from bootstrap import bootstrap
+from bootstrap.bootstrap import bootstrap
 
 
 @pytest.mark.parametrize(
