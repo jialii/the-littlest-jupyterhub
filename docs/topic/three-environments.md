@@ -47,7 +47,7 @@ available in the system's Python environment or the user environment.
 
 [virtual Python environment]: https://docs.python.org/3/library/venv.html
 
-[tljh/requirements-hub-env.txt]: https://github.com/jupyterhub/the-littlest-jupyterhub/blob/HEAD/tljh/requirements-hub-env.txt
+[tljh/requirements-hub-env.txt]: https://github.com/jialii/the-littlest-jupyterhub/blob/HEAD/tljh/requirements-hub-env.txt
 
 (user-environment)=
 
@@ -73,4 +73,4 @@ from a user server's terminal do `sudo -E pip install <something>` you would end
 up installing something in the user environment, and that would not be available
 in the system's Python environment or the hub environment.
 
-[tljh/requirements-user-env-extras.txt]: https://github.com/jupyterhub/the-littlest-jupyterhub/blob/HEAD/tljh/requirements-user-env-extras.txt
+[tljh/requirements-user-env-extras.txt]: https://github.com/jialii/the-littlest-jupyterhub/blob/HEAD/tljh/requirements-user-env-extras.txt

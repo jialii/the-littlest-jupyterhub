@@ -1,9 +1,9 @@
 # The Littlest JupyterHub
 
 [![Documentation build status](https://img.shields.io/readthedocs/the-littlest-jupyterhub?logo=read-the-docs)](https://tljh.jupyter.org/en/latest/?badge=latest)
-[![GitHub Workflow Status - Test](https://img.shields.io/github/actions/workflow/status/jupyterhub/the-littlest-jupyterhub/integration-test.yaml?logo=github&label=tests)](https://github.com/jupyterhub/the-littlest-jupyterhub/actions)
+[![GitHub Workflow Status - Test](https://img.shields.io/github/actions/workflow/status/jupyterhub/the-littlest-jupyterhub/integration-test.yaml?logo=github&label=tests)](https://github.com/jialii/the-littlest-jupyterhub/actions)
 [![Test coverage of code](https://codecov.io/gh/jupyterhub/the-littlest-jupyterhub/branch/main/graph/badge.svg)](https://codecov.io/gh/jupyterhub/the-littlest-jupyterhub)
-[![GitHub](https://img.shields.io/badge/issue_tracking-github-blue?logo=github)](https://github.com/jupyterhub/the-littlest-jupyterhub/issues)
+[![GitHub](https://img.shields.io/badge/issue_tracking-github-blue?logo=github)](https://github.com/jialii/the-littlest-jupyterhub/issues)
 [![Discourse](https://img.shields.io/badge/help_forum-discourse-blue?logo=discourse)](https://discourse.jupyter.org/c/jupyterhub/tljh)
 [![Gitter](https://img.shields.io/badge/social_chat-gitter-blue?logo=gitter)](https://gitter.im/jupyterhub/jupyterhub)
 [![Contribute](https://img.shields.io/badge/I_want_to_contribute!-grey?logo=jupyter)](https://tljh.jupyter.org/en/latest/contributing/index.html)
@@ -65,5 +65,5 @@ is not documented, it is a bug! We try to treat our documentation like we treat
 our code: we aim to improve it as often as possible.
 
 If something is confusing to you in the documentation, it is a bug. We would be
-happy if you could [file an issue](https://github.com/jupyterhub/the-littlest-jupyterhub/issues) about it - or
+happy if you could [file an issue](https://github.com/jialii/the-littlest-jupyterhub/issues) about it - or
 even better, [contribute a documentation fix](http://the-littlest-jupyterhub.readthedocs.io/en/latest/contributing/docs.html)!

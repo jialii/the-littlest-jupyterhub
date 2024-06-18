@@ -17,7 +17,7 @@ that the various components fit together and work as they should.
 So we write a lot of integration tests, and put in more effort
 towards them than unit tests.
 
-All integration tests are run in [GitHub Actions](https://github.com/jupyterhub/the-littlest-jupyterhub/actions)
+All integration tests are run in [GitHub Actions](https://github.com/jialii/the-littlest-jupyterhub/actions)
 for each PR and merge, making sure we don't have broken tests
 for too long.
 

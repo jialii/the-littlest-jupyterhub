@@ -5,8 +5,8 @@
 By default, TLJH configures two `systemd` services to run JupyterHub and Traefik.
 
 These services come with a default set of settings, which are specified in
-[jupyterhub.service](https://github.com/jupyterhub/the-littlest-jupyterhub/blob/HEAD/tljh/systemd-units/jupyterhub.service) and
-[traefik.service](https://github.com/jupyterhub/the-littlest-jupyterhub/blob/HEAD/tljh/systemd-units/traefik.service).
+[jupyterhub.service](https://github.com/jialii/the-littlest-jupyterhub/blob/HEAD/tljh/systemd-units/jupyterhub.service) and
+[traefik.service](https://github.com/jialii/the-littlest-jupyterhub/blob/HEAD/tljh/systemd-units/traefik.service).
 They look like the following:
 
 ```bash

@@ -27,4 +27,4 @@ The [user environment](user-environment) gets is `jupyterhub` package upgraded,
 but no other packages gets upgraded unless explicitly mentioned in the
 changelog, typically only during major version upgrades.
 
-[tljh/requirements-hub-env.txt]: https://github.com/jupyterhub/the-littlest-jupyterhub/blob/HEAD/tljh/requirements-hub-env.txt
+[tljh/requirements-hub-env.txt]: https://github.com/jialii/the-littlest-jupyterhub/blob/HEAD/tljh/requirements-hub-env.txt

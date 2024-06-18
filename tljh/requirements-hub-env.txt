@@ -23,6 +23,6 @@ jupyterhub-idle-culler>=1.2.1,<2
 # installed.
 #
 # ref: https://www.tornadoweb.org/en/stable/httpclient.html#module-tornado.simple_httpclient
-# ref: https://github.com/jupyterhub/the-littlest-jupyterhub/issues/289
+# ref: https://github.com/jialii/the-littlest-jupyterhub/issues/289
 #
 pycurl>=7.45.2,<8

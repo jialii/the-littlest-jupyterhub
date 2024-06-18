@@ -169,7 +169,7 @@ def validate_config(config, validate):
             print(
                 f"Config validation error: {e.message}.\n"
                 "You can still apply this change without validation by re-running your command with the --no-validate flag.\n"
-                "If you think this validation error is incorrect, please report it to https://github.com/jupyterhub/the-littlest-jupyterhub/issues."
+                "If you think this validation error is incorrect, please report it to https://github.com/jialii/the-littlest-jupyterhub/issues."
             )
             exit()
 

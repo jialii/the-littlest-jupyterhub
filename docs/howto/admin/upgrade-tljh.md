@@ -61,4 +61,4 @@ or documentation improvement that should be made you can open an issue or pull
 request in the [TLJH GitHub project].
 
 [jupyter forum]: https://discourse.jupyter.org/c/jupyterhub/tljh
-[tljh github project]: https://github.com/jupyterhub/the-littlest-jupyterhub
+[tljh github project]: https://github.com/jialii/the-littlest-jupyterhub

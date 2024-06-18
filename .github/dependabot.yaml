@@ -2,7 +2,7 @@
 #
 # Notes:
 # - Status and logs from dependabot are provided at
-#   https://github.com/jupyterhub/the-littlest-jupyterhub/network/updates.
+#   https://github.com/jialii/the-littlest-jupyterhub/network/updates.
 # - YAML anchors are not supported here or in GitHub Workflows.
 #
 version: 2

@@ -84,9 +84,9 @@ A hook implementation is a function that has the following characteristics:
    `tljh.hooks`.
 
 The current list of available hooks and when they are called can be
-seen in [tljh/hooks.py](https://github.com/jupyterhub/the-littlest-jupyterhub/blob/main/tljh/hooks.py)
+seen in [tljh/hooks.py](https://github.com/jialii/the-littlest-jupyterhub/blob/main/tljh/hooks.py)
 in the source repository. Example implementations of each hook can be referenced from
-[integration-tests/plugins/simplest/tljh_simplest.py](https://github.com/jupyterhub/the-littlest-jupyterhub/blob/main/integration-tests/plugins/simplest/tljh_simplest.py).
+[integration-tests/plugins/simplest/tljh_simplest.py](https://github.com/jialii/the-littlest-jupyterhub/blob/main/integration-tests/plugins/simplest/tljh_simplest.py).
 
 This example provides an implementation for the `tljh_extra_user_conda_packages`
 hook, which can return a list of conda packages that'll be installed in users'
